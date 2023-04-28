@@ -1,0 +1,48 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    color: white;
+    background-image: url('http://i1.cdn-image.com/__media__/pics/29590/bg1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 45rem;
+    margin-right: 45rem;
+}
+
+header {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+button {
+    font-size: 28px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: rgb(207, 207, 207);
+    color: white;
+    border-radius: 0.8rem;
+    padding: 3rem 1rem 3rem;
+    margin: 6px;
+    border-width: 4px;
+    width: 35rem;
+    text-align: left;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: rgb(255, 166, 0);
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(163, 163, 163);
+    font-size: 12px;
+}
+
+p {
+    color: rgb(163, 163, 163);
+    font-size: 12px;
+    text-align: left;
+}
