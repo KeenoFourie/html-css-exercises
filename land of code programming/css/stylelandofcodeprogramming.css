@@ -1,0 +1,116 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    color: rgb(94, 94, 94);
+    font-size: larger;
+}
+
+.header {
+    background-color: rgb(46, 46, 46);
+    color: rgb(155, 155, 155);
+    padding: 24px;
+    margin: -10px;
+    text-align: left;
+    font-size: x-large;
+}
+
+a {
+    color: rgb(155, 155, 155);
+    text-decoration: none;
+    padding-right: 50px;
+    padding-top: 0.6rem;
+    float: right;
+    font-size: medium;
+}
+
+.htmlexercises {
+    flex-direction: column;
+    column-count: 3;
+    margin: 1rem 6rem 1rem;
+    font-size: large;
+}
+
+.word1 {
+    float: right;
+    padding: 6rem;
+    margin-left: -20rem;
+    margin-right: 8rem;
+    font-size: 18px;
+}
+
+.word2 {
+    float: left;
+    padding: 6rem;
+    margin-left: 8rem;
+    margin-right: -20rem;
+    font-size: 18px;
+}
+
+.word3 {
+    float: right;
+    padding: 6rem;
+    margin-left: -20rem;
+    margin-right: 8rem;
+    font-size: 18px;
+}
+
+img {
+    size: 6rem;
+}
+
+button {
+    background-color: transparent;
+    border-style: solid;
+    border-color: rgb(107, 107, 107);
+    border-width: 1px;
+    height: 3.5rem;
+    width: 16rem;
+    font-size: large;
+    color: rgb(129, 129, 129);
+}
+
+button:hover {
+    border-style: none;
+    background-color: rgba(100, 76, 76, 0.651);
+    color: black;
+    cursor: pointer;
+}
+
+footer {
+    background-color: rgb(46, 46, 46);
+    color: rgb(155, 155, 155);
+    padding: 24px;
+    margin: -10px;
+}
+
+.foot {
+    color: white;
+    font-size: medium;
+}
+
+.bullet {
+    display: inline-block;
+    text-align: center;
+    text-align: left;
+}
+
+b {
+    color: rgb(48, 48, 48);
+    text-align: center;
+}
+
+.title {
+    font-size: x-large;
+    margin: 3rem;
+}
+
+h3 {
+    color: rgb(48, 48, 48);
+}
+
+.pepe {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    color: rgb(94, 94, 94);
+    font-size: larger;
+}
